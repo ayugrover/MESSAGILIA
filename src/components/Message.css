@@ -1,0 +1,21 @@
+ .message{
+     padding: 10px;
+     margin: 10px;
+     width: fit-content;  
+ } 
+
+ .message_user {
+    color: white;
+    margin-left: auto;
+    text-align: right !important;  
+} 
+
+.message_userCard{
+    margin-left: auto;
+    background-color: blue !important;
+}
+
+.message_guestCard
+{
+    background-color: gainsboro !important;
+}
